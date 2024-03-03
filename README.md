@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kota Santosh</h1>
-<h3 align="center">An enthusiastic full-stack developer eagerly seeking substantial hands-on technical experience.</h3>
+<h3 align="center">An enthusiastic full-stack developer with a liking for crafting good UI.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sssmaran&label=Profile%20views&color=0e75b6&style=flat" alt="sssmaran" /> </p>
 
