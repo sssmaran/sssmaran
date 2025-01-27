@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **projects focusing on different system architectures**
 
-- 💬 Ask me about **React, Python, UI Design**
+- 💬 Ask me about **React, Python, UI/UX**
 
 - 📫 How to reach me **smarankota@gmail.com**
 
