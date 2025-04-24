@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sssmaran&label=Profile%20views&color=0e75b6&style=flat" alt="sssmaran" /> </p>
 
-- 🔭 I’m currently working on **projects focusing on different system architectures**
+- 🔭 I’m currently working on **projects focusing on implementing different ML and NLP models in solving real-world problems**
 
 - 💬 Ask me about **React, Python, UI/UX**
 
