@@ -34,9 +34,6 @@ I enjoy working at the intersection of **cloud systems, data, analytics, and app
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
----
-## Tech Stack
-
 <table>
 <thead>
 <tr>
