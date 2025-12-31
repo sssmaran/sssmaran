@@ -13,10 +13,10 @@
 I’m an **Aspiring Software Engineer** with experience as a **Cloud Application developer**, currently pursuing my **Master’s in Computer Science at the University at Buffalo, NY**.
 
 My work focuses on:
-- **Backend API design** and cloud-native systems using **Golang and Python**
 - **Full-stack development** with **React, Node.js, and RESTful services**
 - **ML systems and end-to-end pipelines**, covering data ingestion, preprocessing, model training, evaluation, and deployment
 - **Analytics and data engineering**, including ETL workflows and dashboard-driven insights (Tableau)
+- **Backend API design** and cloud-native systems using **Golang and Python**
 - Selected use of **LLMs and agent-based components** where they meaningfully improve systems
 
 I enjoy working at the intersection of **cloud systems, data, analytics, and applied intelligence**, with an emphasis on clean design and maintainability.
@@ -24,15 +24,7 @@ I enjoy working at the intersection of **cloud systems, data, analytics, and app
 ---
 
 ## What I’m Currently Working On
-
-- Backend services and API design using **Golang**
-- Full-stack applications with **React & Next.js**
-- **ML systems and pipelines**, focusing on:
-  - Data ingestion and preprocessing  
-  - Feature engineering and model evaluation  
-  - Analytics and insight generation  
-- Data visualization and analytics using **Tableau**
-- Improving cloud-native architectures and DevOps workflows
+- A multi-agent AI system focused on agent coordination and routing strategies.
 
 ---
 ## Tech Stack
@@ -41,8 +33,6 @@ I enjoy working at the intersection of **cloud systems, data, analytics, and app
 ![Go](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
----
 
 ---
 ## Tech Stack
