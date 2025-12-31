@@ -35,25 +35,6 @@ I enjoy working at the intersection of **cloud systems, data, analytics, and app
 - Improving cloud-native architectures and DevOps workflows
 
 ---
-
-## Education
-
-**University at Buffalo, State University of New York**  
-*Master of Science in Computer Science* (Aug 2024 – Dec 2025)  
-
-**Relevant Coursework:**  
-Blockchain, Machine Learning, Operating Systems, Networking Protocols,  
-Natural Language Processing, Database Systems
-
----
-
-**Osmania University**  
-*Bachelor of Engineering in Information Technology* (Jun 2019 – Jul 2023)  
-
-**Relevant Coursework:**  
-C, C++, Java, Python, Data Structures, Data Mining, Computer Networks, DBMS
-
----
 ## Tech Stack
 
 ### Primary
