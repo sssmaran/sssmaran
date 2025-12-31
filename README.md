@@ -6,7 +6,7 @@
 
 ![Cloud%20Application%20Developer](https://img.shields.io/badge/-Cloud%20Application%20Developer-013243?style=for-the-badge&logoColor=white)
 
-**Golang • React • Python | ML Systems • Analytics • Data Engineering**
+**React • Python • Golang | AI Engineering • ML Systems • Analytics**
 
 </div>
 
@@ -14,6 +14,7 @@ I’m an **Aspiring Software Engineer** with experience as a **Cloud Application
 
 My work focuses on:
 - **Full-stack development** with **React, Node.js, and RESTful services**
+- **AI engineering and agentic systems**, including learning and building multi-agent architectures, agent coordination, and routing strategies
 - **ML systems and end-to-end pipelines**, covering data ingestion, preprocessing, model training, evaluation, and deployment
 - **Analytics and data engineering**, including ETL workflows and dashboard-driven insights (Tableau)
 - **Backend API design** and cloud-native systems using **Golang and Python**
