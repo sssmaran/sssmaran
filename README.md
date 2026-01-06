@@ -25,8 +25,7 @@ I enjoy working at the intersection of **cloud systems, data, analytics, and app
 ---
 
 ## What I’m Currently Working On
-- A multi-agent AI system focused on agent coordination and routing strategies.
-
+🤫
 ---
 ## Tech Stack
 
