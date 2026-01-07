@@ -14,11 +14,10 @@ I’m an **Aspiring Software Engineer** with experience as a **Cloud Application
 
 My work focuses on:
 - **Full-stack development** with **React, Node.js, and RESTful services**
-- **AI engineering and agentic systems**, including learning and building multi-agent architectures, agent coordination, and routing strategies
+- Selected use of **LLMs and agent-based components** where they meaningfully improve systems
 - **ML systems and end-to-end pipelines**, covering data ingestion, preprocessing, model training, evaluation, and deployment
 - **Analytics and data engineering**, including ETL workflows and dashboard-driven insights (Tableau)
 - **Backend API design** and cloud-native systems using **Golang and Python**
-- Selected use of **LLMs and agent-based components** where they meaningfully improve systems
 
 I enjoy working at the intersection of **cloud systems, data, analytics, and applied intelligence**, with an emphasis on clean design and maintainability.
 
