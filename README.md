@@ -23,11 +23,6 @@ I enjoy working at the intersection of **cloud systems, data, analytics, and app
 
 ---
 
-## What I’m Currently Working On
-
-Learning how to build CLI applications, and then integrating AI agents into them to create a production-ready product.
-
----
 ## Tech Stack
 
 ### Primary
