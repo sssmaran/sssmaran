@@ -1,15 +1,5 @@
 # Hey there, I’m Santosh Kota!
 
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=sssmaran&color=0e75b6&style=flat-square)
-
-![Cloud%20Application%20Developer](https://img.shields.io/badge/-Cloud%20Application%20Developer-013243?style=for-the-badge&logoColor=white)
-
-**React • Python • Golang | AI Engineering • ML Systems • Analytics**
-
-</div>
-
 I’m an **Aspiring Software Engineer** with experience as a **Cloud Application developer**, currently pursuing my **Master’s in Computer Science at the University at Buffalo, NY**.
 
 My work focuses on:
