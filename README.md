@@ -1,3 +1,5 @@
+![7BCD1A59-A8BD-4DB6-89FB-0E0659DC448E_4_5005_c](https://github.com/user-attachments/assets/7b484f60-6db5-4f27-b5f1-372e270aa963)
+
 # Hey there, I’m Santosh Kota!
 
 I’m an **Aspiring Software Engineer** with experience as a **Cloud Application developer**, currently pursuing my **Master’s in Computer Science at the University at Buffalo, NY**.
