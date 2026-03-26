@@ -1,4 +1,4 @@
-![7BCD1A59-A8BD-4DB6-89FB-0E0659DC448E_4_5005_c](https://github.com/user-attachments/assets/7b484f60-6db5-4f27-b5f1-372e270aa963)
+![E94979BE-4C30-40A4-A80F-121D5C8E8786_1_201_a](https://github.com/user-attachments/assets/ec07d0a6-605d-4031-bdf3-a64e6556a04c)
 
 # Hey there, I’m Santosh Kota!
 
